@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.delete",
+    "sha256_cert_fingerprints":
+    ["67:F8:90:18:EA:12:E9:04:9B:16:E0:52:5E:78:34:F3:08:7C:F7:63:1A:45:33:45:35:FA:22:85:60:64:3A:AC"]
+  }
+}]
